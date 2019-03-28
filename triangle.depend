@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1491756702 source:c:\users\plorens\desktop\jêzyk c++\triangle\main.cpp
+	<iostream>
+	<fstream>
+	"triangle.h"
+
+1491759705 c:\users\plorens\desktop\jêzyk c++\triangle\triangle.h
+	<map>
+	<vector>
+	<string>
+
+1491759849 source:c:\users\plorens\desktop\jêzyk c++\triangle\triangle.cpp
+	<iostream>
+	"triangle.h"
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+
+1491812371 c:\users\plorens\desktop\jêzyk c++\triangle\include\triangle.h
+	<vector>
+	<string>
+
+1491816259 source:c:\users\plorens\desktop\jêzyk c++\triangle\src\editor.cpp
+	"Editor.h"
+	<iostream>
+	<sstream>
+
+1491812148 c:\users\plorens\desktop\jêzyk c++\triangle\include\editor.h
+	"Image.h"
+	"ImageFactory.h"
+
+1491815570 c:\users\plorens\desktop\jêzyk c++\triangle\include\image.h
+	<map>
+	<string>
+	"Triangle.h"
+
+1491812148 c:\users\plorens\desktop\jêzyk c++\triangle\include\imagefactory.h
+	"Image.h"
+
+1491772261 source:c:\users\plorens\desktop\jêzyk c++\triangle\src\image.cpp
+	"Image.h"
+	<sstream>
+	<fstream>
+
+1491811016 source:c:\users\plorens\desktop\jêzyk c++\triangle\src\imagefactory.cpp
+	"ImageFactory.h"
+
+1491760615 source:c:\users\plorens\desktop\jêzyk c++\triangle\src\main.cpp
+	"ImageFactory.h"
+	"Editor.h"
+
+1491773823 source:c:\users\plorens\desktop\jêzyk c++\triangle\src\triangle.cpp
+	"Triangle.h"
+	<cassert>
+	<cmath>
+
